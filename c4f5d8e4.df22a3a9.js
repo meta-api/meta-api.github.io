@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{97:function(t,e,n){"use strict";n.r(e);var a=n(0),r=n.n(a),c=(n(114),n(125),n(116),n(22)),i=(n(118),n(98),n(117));r.a.Fragment,r.a.Fragment,r.a.Fragment;e.default=function(){const t=Object(c.default)(),{siteConfig:e={}}=t;return r.a.createElement(i.Redirect,{to:"/docs/getting-started/quick-start"})}}}]);
