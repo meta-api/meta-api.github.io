@@ -7,5 +7,5 @@
   <Image width="16" height="16" type="image/x-icon">https://meta-api.github.io/img/favicon.ico</Image>
   <Url type="text/html" method="get" template="https://meta-api.github.io/search?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://meta-api.github.io/opensearch.xml" />
-  <moz:SearchForm>https://meta-api.github.io</moz:SearchForm>
+  <moz:SearchForm>https://meta-api.github.io/</moz:SearchForm>
 </OpenSearchDescription>
