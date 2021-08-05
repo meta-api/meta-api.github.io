@@ -4,8 +4,8 @@
   <ShortName>Meta API - Docs</ShortName>
   <Description>Search Meta API - Docs</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://meta-api.github.io/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://meta-api.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://meta-api.github.io/opensearch.xml" />
-  <moz:SearchForm>https://meta-api.github.io</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://docs.meta-api.io/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://docs.meta-api.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.meta-api.io/opensearch.xml" />
+  <moz:SearchForm>https://docs.meta-api.io/</moz:SearchForm>
 </OpenSearchDescription>
