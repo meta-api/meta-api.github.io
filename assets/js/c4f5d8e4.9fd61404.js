@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmeta_api_docs=self.webpackChunkmeta_api_docs||[]).push([[4195],{5239:function(t,e,n){n.r(e),n.d(e,{default:function(){return c}});var a=n(7294),r=(n(6010),n(2600),n(9960),n(2263)),i=(n(4996),n(6775));a.Fragment,a.Fragment,a.Fragment;var c=function(){return(0,r.Z)().siteConfig,a.createElement(i.l_,{to:"/docs/introduction/what-is-meta-api/"})}}}]);
